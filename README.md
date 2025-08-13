@@ -36,26 +36,32 @@ Results from the tests are saved in the **Vanuatu** and **Maui** folders.
 ---
 
 Vanuatu: IMG_0532_annotated.JPG
+* no obvious problems
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0532_annotated.JPG)
 
 ---
 
-## Vanuatu: IMG_0671_annotated.JPG
+Vanuatu: IMG_0671_annotated.JPG
+* dead palms not detected
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0671_annotated.JPG)
 
 ---
 
-## Vanuatu: IMG_0695_annotated.JPG
+Vanuatu: IMG_0695_annotated.JPG
+* vcuts not detected
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0695_annotated.JPG)
 
 ---
 
-## Vanuatu: IMG_0704_annotated.JPG
+Vanuatu: IMG_0704_annotated.JPG
+* vcuts not detected
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0704_annotated.JPG)
 
 ---
 
-## Vanuatu: IMG_0713_annotated.JPG
+Vanuatu: IMG_0713_annotated.JPG
+* vcut not detected
+
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0713_annotated.JPG)
 
 ---
@@ -65,18 +71,22 @@ Vanuatu: IMG_0532_annotated.JPG
 
 ---
 
-## Maui: Hyatt coconut_annotated.jpg
+Maui: Hyatt coconut_annotated.jpg
+* vcut not detected
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/Hyatt%20coconut_annotated.jpg)
 
 ---
 
-## Maui: Kaanapali Golf Course_annotated.jpg
+Maui: Kaanapali Golf Course_annotated.jpg
+* 2 false positive vcuts
+* 1 vcut undetected
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/Kaanapali%20Golf%20Course_annotated.jpg)
 
 ---
 
 ## Maui: Ulua Beach_annotated.jpg
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/Ulua%20Beach_annotated.jpg)
+* no obvious problems
 
 ---
 
