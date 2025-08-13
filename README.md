@@ -24,7 +24,11 @@ On 2025-08-12 I tested the notebook with 2 small sets of images:
 * 5 images of coconut palm images from from Vanuatu provided by Sulav Paudel at AgResearch New Zealand.
 * 3 images of coconut palms from Maui provided by Nicole Ferguson at Hawaii Department of Agriculture.
 
+Note that I reduced the size of all images to a mximum dimension of 960 pixels before testing. 
+
 Results from the tests are saved in the **Vanuatu** and **Maui** folders.
+
+![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0532_annotated.JPG)
 
 # Suggested improvements
 
