@@ -91,12 +91,12 @@ Visual inspection of the 8 annotated images returned by the Colab notebook shows
 * objects were detected without obvious error in only 1 of 5 of the images from Vanuatu
 * objects were detected without obvious error in only 1 of 3 of the images from Maui
 
-These results from both datasets indicate that the model needs to be retrained. An inspection of the training data shows that there are there are major problems with this model which need to be addressed:
-* the model is based on yolov8n. This is the smallest YOLOv8 model ("n" stands for nano; larger models include small, medium, large and extra-large). Using a larger base model might result in improvement.
+Results from both datasets indicate that the model needs to be retrained. An inspection of the training data shows that there are there are major problems with this model which need to be addressed:
+* the model is based on yolov8n. This is the smallest (dumbest) YOLOv8 model ("n" stands for nano; larger models include small, medium, large and extra-large). Using a larger base model might result in improvement.
 * images are reduced to a maximum dimension of 960 pixels before being scanned. Increasing imgsz to 1920, to match the original size of images in the training set (1920x1080 pixels) may result in improvement.
-* there is a massive class imbalance in the training set (see [labels.jpg](https://github.com/aubreymoore/code-for-CRB-damage-ai/blob/main/models/3class/train5/labels.jpg), [confusion_matrix.png](models/3class/train5/confusion_matrix.png) and [confusion_matrix_normalized](models/3class/train5/confusion_matrix_normalized.png). Fixing this class imbalance using augmention and other methods may lead to improvement. 
+* there is a massive class imbalance in the training set (see [labels.jpg](https://github.com/aubreymoore/code-for-CRB-damage-ai/blob/main/models/3class/train5/labels.jpg), [confusion_matrix.png](models/3class/train5/confusion_matrix.png) and [confusion_matrix_normalized](models/3class/train5/confusion_matrix_normalized.png). Fixing this class imbalance using augmention and/or other methods may leed to improvement. 
 
-Poor performance on 2 of 3 images from Maui may be the result of another problem. The current model was trained with roadside survey images showing whole coocnut palms or at least whole crowns of coconut palms. The two problematic images from Maui shows only parts of single fronds. It is possible that there the object detector is not getting enough context from these images.
+Poor performance on 2 of 3 images from Maui may be the result of another problem. The current model was trained with roadside survey images showing whole coocnut palms or at least whole crowns of coconut palms. The two problematic images from Maui shows only parts of single fronds. It is possible that the object detector is not getting enough context from these images.
 
 # Next steps
 
