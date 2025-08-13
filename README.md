@@ -27,21 +27,23 @@ On 2025-08-12 I tested the notebook with 2 small sets of images:
 Note that I reduced the size of all images to a mximum dimension of 960 pixels before testing. 
 
 Results from the tests are saved in the **Vanuatu** and **Maui** folders.
-
-## IMG_0532_annotated.JPG
+---
+## Vanuatu: IMG_0532_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0532_annotated.JPG)
-
-## IMG_0671_annotated.JPG
+---
+## Vanuatu: IMG_0671_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0671_annotated.JPG)
-
-## IMG_0695_annotated.JPG
+---
+## Vanuatu: IMG_0695_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0695_annotated.JPG)
-
-## IMG_0704_annotated.JPG
+---
+## Vanuatu: IMG_0704_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0704_annotated.JPG)
-
-## IMG_0713_annotated.JPG
+---
+## Vanuatu: IMG_0713_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_713_annotated.JPG)
+---
+
 
 
 
