@@ -27,37 +27,57 @@ On 2025-08-12 I tested the notebook with 2 small sets of images:
 Note that I reduced the size of all images to a mximum dimension of 960 pixels before testing. 
 
 Results from the tests are saved in the **Vanuatu** and **Maui** folders.
+
 ---
+
 ## Results for scans of Vanuatu images
 [Click here to see detections in tabular form](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/detections.csv)
+
 ---
+
 Vanuatu: IMG_0532_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0532_annotated.JPG)
+
 ---
+
 ## Vanuatu: IMG_0671_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0671_annotated.JPG)
+
 ---
+
 ## Vanuatu: IMG_0695_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0695_annotated.JPG)
+
 ---
+
 ## Vanuatu: IMG_0704_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0704_annotated.JPG)
+
 ---
+
 ## Vanuatu: IMG_0713_annotated.JPG
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Vanuatu/IMG_0713_annotated.JPG)
+
 ---
+
 ## Results for scans of Maui images
 [Click here to see detections in tabular form](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/detections.csv)
 
 ---
+
 ## Maui: Hyatt coconut_annotated.jpg
 ![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/Hyatt%20coconut_annotated.jpg)
+
 ---
-## Maui: Hyatt coconut_annotated.jpg
-![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/Hyatt%20coconut_annotated.jpg)
+
+## Maui: Kaanapali Golf Course_annotated.jpg
+![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/Kaanapali%20Golf%20Course_annotated.jpg)
+
 ---
-## Maui: Hyatt coconut_annotated.jpg
-![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/Hyatt%20coconut_annotated.jpg)
+
+## Maui: Ulua Beach_annotated.jpg
+![](https://github.com/aubreymoore/crb-damage-detector-colab-evaluation/blob/main/Maui/Ulua%20Beach_annotated.jpg)
+
 ---
 
 
