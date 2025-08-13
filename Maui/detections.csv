@@ -1,0 +1,7 @@
+x_min,y_min,x_max,y_max,class_id,confidence,tracker_id,class_name,image_h,image_w,source
+98.06677,23.033813,887.8593,720.0,0,0.8756791,,live,720,960,INPUT/Ulua Beach.jpg
+274.48218,170.90262,351.95203,252.37238,2,0.6703786,,vcut,720,960,INPUT/Ulua Beach.jpg
+617.08044,100.15412,684.62854,188.59906,2,0.60202754,,vcut,720,960,INPUT/Ulua Beach.jpg
+492.08163,0.0,714.2219,166.9455,2,0.4996855,,vcut,1280,960,INPUT/Kaanapali Golf Course.jpg
+155.80827,707.4131,216.04707,769.1245,2,0.46364918,,vcut,1280,960,INPUT/Kaanapali Golf Course.jpg
+0.0,211.05554,960.0,1193.1447,0,0.8143985,,live,1280,960,INPUT/Hyatt coconut.jpg
